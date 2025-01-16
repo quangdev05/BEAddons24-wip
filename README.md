@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuangDev05/BEAddons24)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/quangdev05/BEAddons24)
 ![GitHub license](https://img.shields.io/github/license/quangdev05/BEAddons24-wip)
 ![Supported server version](https://img.shields.io/badge/Minecraft-1.12x%20--_Latest-green)
 [![Discord](https://img.shields.io/discord/1247029974154612828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HsSUVGSc3c)
